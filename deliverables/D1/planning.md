@@ -134,3 +134,21 @@ List/describe the artifacts you will produce in order to organize your team.
 * Is your project the first step towards building this product? Is it the first prototype? Are you developing the frontend of a product whose backend is developed by the partner? Are you building the release pipelines for a product that is developed by the partner? Are you building a core feature set and take full ownership of these features?
 * You should also provide details of who else is contributing to what parts of the product, if you have this information. This is more important if the project that you will be working on has strong coupling with parts that will be contributed to by members other than your team (e.g. from partner).
 * You can be creative for these questions and even use a graphical or pictorial representation to demonstrate the fit.
+
+## Potential Risks
+
+#### Q13. What are some potential risks to your project?
+* Now that you have defined your project, what risks can you think of that will impact the project?
+* Some examples of risks in this planning stage could be:
+  * uncertainities regarding a specific feature
+  * lack of clarity on execution
+  * insufficient discussion with the partner
+  * user stories too abstract or too simple
+* For each risk, give a short bullet point and then explain in detail about the risk. 
+
+#### Q14. What are some potential mitigation strategies for the risks you identified?
+* Examples of mitigation strategies:
+  * More communication with the partner might help with improving clarity.
+  * Adding more details for an user story might make it less abstract.
+  * Adding an extra user story might increase the project complexity, making it less simple.
+* It's ok if you are unable to find mitigation strategies for all the risks right now.
