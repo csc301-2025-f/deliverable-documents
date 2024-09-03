@@ -138,13 +138,13 @@ List/describe the artifacts you will produce in order to organize your team.
 ## Potential Risks
 
 #### Q13. What are some potential risks to your project?
-* Now that you have defined your project, what risks can you think of that will impact the project?
-* Some examples of risks in this planning stage could be:
-  * uncertainities regarding a specific feature
-  * lack of clarity on execution
-  * insufficient discussion with the partner
-  * user stories too abstract or too simple
-* For each risk, give a short bullet point and then explain in detail about the risk. 
+* Now that you have defined your project, what risks can you identify that might impact it?
+* Some examples of risks at this planning stage could include:
+  * Uncertainties regarding a specific feature
+  * Lack of clarity in execution
+  * Insufficient discussion with partners
+  * User stories that are too abstract or too simple
+* For each risk, provide a brief bullet point and then explain the risk in detail. 
 
 #### Q14. What are some potential mitigation strategies for the risks you identified?
 * Examples of mitigation strategies:
