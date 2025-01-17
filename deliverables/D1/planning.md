@@ -9,11 +9,11 @@
  > Short (1 - 2 min' read)
  * Start with a single sentence, high-level description of the product.
  * Be clear - Describe the problem you are solving in simple terms.
- * Specify if you have a partner and who they are.
+ * Specify if you have a partner, who they are (role/title), and the organization information.
  * Be concrete. For example:
     * What are you planning to build? Is it a website, mobile app, browser extension, command-line app, etc.?      
     * When describing the problem/need, give concrete examples of common use cases.
-    * Assume your the reader knows nothing about the partner or the problem domain and provide the necessary context. 
+    * Assume the reader knows nothing about the partner or the problem domain and provide the necessary context. 
  * Focus on *what* your product does, and avoid discussing *how* you're going to implement it.      
    For example: This is not the time or the place to talk about which programming language and/or framework you are planning to use.
  * **Feel free (and very much encouraged) to include useful diagrams, mock-ups and/or links**.
@@ -22,7 +22,7 @@
 #### Q2: Who are your target users?
 
   > Short (1 - 2 min' read max)
- * Be specific (e.g. a 'a third-year university student studying Computer Science' and not 'a student')
+ * Be specific (e.g. a 'a third-year university student taking CSC301 and studying Computer Science' and not 'a student')
  * **Feel free to use personas. You can create your personas as part of this Markdown file, or add a link to an external site (for example, [Xtensio](https://xtensio.com/user-persona/)).**
 
 #### Q3: Why would your users choose your product? What are they using today to solve their problem/need?
@@ -103,7 +103,7 @@ Describe meetings (and other events) you are planning to have.
   
 #### Q9: How will you organize your team?
 
-List/describe the artifacts you will produce in order to organize your team.       
+List/describe the artifacts you will produce to organize your team. (We strongly recommend that you use standard collaboration tools like Linear.app, Jira, Slack, Discord, GitHub.)       
 
  * Artifacts can be To-Do lists, Task boards, schedule(s), meeting minutes, etc.
  * We want to understand:
@@ -116,10 +116,10 @@ List/describe the artifacts you will produce in order to organize your team.
 
 **Communications:**
  * What is the expected frequency? What methods/channels will be used? 
- * If you have a partner project, what is your process for communicating with your partner?
+ * If you have a partner project, what is your process for communicating with your partner? Who is responsible?
  
 **Collaboration: (Share your responses to Q8 & Q9 from A1)**
- * How are people held accountable for attending meetings, completing action items? Is there a moderator or process?
+ * How are people held accountable for attending meetings, completing action items? what is your process?
  * How will you address the issue if one person doesn't contribute or is not responsive?
 
 ## Organisation Details
@@ -132,8 +132,9 @@ List/describe the artifacts you will produce in order to organize your team.
 #### Q12. How does your project fit within the overall product from the partner?
 * Look at the big picture of the product and think about how your project fits into this product.
 * Is your project the first step towards building this product? Is it the first prototype? Are you developing the frontend of a product whose backend is developed by the partner? Are you building the release pipelines for a product that is developed by the partner? Are you building a core feature set and take full ownership of these features?
-* You should also provide details of who else is contributing to what parts of the product, if you have this information. This is more important if the project that you will be working on has strong coupling with parts that will be contributed to by members other than your team (e.g. from partner).
+* You should also provide details of who else is contributing to what parts of the product, if you have this information. This is more important if the project that you will be working on has strong coupling with parts that will be contributed to by members other than your team (e.g., from a partner).
 * You can be creative for these questions and even use a graphical or pictorial representation to demonstrate the fit.
+* Briefly specify what your partner considers a success for this project. Do they want you to build specific features? Publish a usable product? Just a prototype? Be as specific as you can be at this point.
 
 ## Potential Risks
 
@@ -141,8 +142,9 @@ List/describe the artifacts you will produce in order to organize your team.
 * Now that you have defined your project, what risks can you identify that might impact it?
 * Some examples of risks at this planning stage could include:
   * Uncertainties regarding a specific feature
-  * Lack of clarity in execution
-  * Insufficient discussion with partners
+  * Misaligned expectations or conflicts
+  * Lack of clarity in execution or decision-making
+  * Limited access to data, systems, or other dependencies
   * User stories that are too abstract or too simple
 * For each risk, provide a brief bullet point and then explain the risk in detail. 
 
