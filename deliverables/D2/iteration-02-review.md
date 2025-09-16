@@ -38,7 +38,7 @@ List any **process-related** (i.e. team organization and/or how you work) change
  * Ordered from most to least important, with supporting argument explaining a change.
 
 #### Q3(b). Integration & Next steps
-Briefly explain how you integrated the previously developed individuals components as one product (i.e. How did you split the code across your team) and how was the code integrated together.
+Briefly explain how you integrated the previously developed individuals components as one product (i.e. How did you split the work across your team) and how was the work integrated together.
 
  * Keep this very short (1-3 lines).
 
